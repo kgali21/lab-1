@@ -6,7 +6,7 @@ export default function renderHornItem(hornItem) {
             <p>${hornItem.title}</p>
         </div>
         <div class="picture-container">
-            <img src="${hornItem.url}" alt="Uniwhal" >
+            <img id="horn-image" src="${hornItem.url}" alt="Uniwhal" >
         </div>
         <div class="horns-amount">
             <p>
