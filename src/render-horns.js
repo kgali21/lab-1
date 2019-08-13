@@ -1,7 +1,7 @@
 export default function renderHornItem(hornItem) {
     const html = /*html*/`
    
-    <li class="horns-container">
+    <li title="${hornItem.description}" class="horns-container">        
         <div class="title">
             <p>${hornItem.title}</p>
         </div>

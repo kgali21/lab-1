@@ -14,7 +14,7 @@ test('Render html from data', assert => {
         horns: 1
     };
     const expected = /*html*/`
-    <li class="horns-container">
+    <li title="A unicorn and a narwhal nuzzling their horns" class="horns-container">        
         <div class="title">
             <p>UniWhal</p>
         </div>
