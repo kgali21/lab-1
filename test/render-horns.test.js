@@ -19,7 +19,7 @@ test('Render html from data', assert => {
             <p>UniWhal</p>
         </div>
         <div class="picture-container">
-            <img src="http://3.bp.blogspot.com/_DBYF1AdFaHw/TE-f0cDQ24I/AAAAAAAACZg/l-FdTZ6M7z8/s1600/Unicorn_and_Narwhal_by_dinglehopper.jpg" alt="Uniwhal" >
+            <img id="horn-image" src="http://3.bp.blogspot.com/_DBYF1AdFaHw/TE-f0cDQ24I/AAAAAAAACZg/l-FdTZ6M7z8/s1600/Unicorn_and_Narwhal_by_dinglehopper.jpg" alt="Uniwhal" >
         </div>
         <div class="horns-amount">
             <p>
